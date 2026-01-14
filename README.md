@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm passionate about creating practical applicatio
 
 ## 🔭 Currently Working On
 - **WinCounter** - A FIFA win tracking app for friends and local tournaments
-- Exploring modern web development practices
+- **LeetCode** - Exploring modern web development practices
 
 ## 🌱 Currently Learning
 - Advanced TypeScript patterns
-- Python Development
+- Web sockets Technologies
 - UI/UX design principles
 
 ## 💼 Tech Stack
