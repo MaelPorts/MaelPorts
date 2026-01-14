@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about creating practical applicatio
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaelPorts&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaelPorts&show_icons=true&theme=radical&hide_border=true)
 
 ## 🎯 Featured Projects
 - [WinCounter](https://github.com/MaelPorts/WinCounter) - Track FIFA game wins between players with an elegant counter interface
