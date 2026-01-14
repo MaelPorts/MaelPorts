@@ -7,8 +7,10 @@ Welcome to my GitHub profile! I'm passionate about creating practical applicatio
 ---
 
 ## 🔭 Currently Working On
-- **WinCounter** - A FIFA win tracking app for friends and local tournaments
-- **LeetCode** - Exploring modern web development practices
+- **NutritionalApp** - A web-based application that help users plan their meals more efficiently
+- **WinCounter** - A win tracking app for friends and local tournaments
+- **LeetCode** - Improving logical thinking and efficiency
+
 
 ## 🌱 Currently Learning
 - Advanced TypeScript patterns
